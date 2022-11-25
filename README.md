@@ -1,1 +1,1 @@
-# 3dZoetrope
+# 3d Zoetrope
